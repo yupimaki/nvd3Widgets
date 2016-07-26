@@ -1,0 +1,10 @@
+dependencies:
+- name: d3
+  src: htmlwidgets/lib/d3
+  script: ./d3.min.js
+  version: 3.5.17
+- name: nvd3
+  src: htmlwidgets/lib/nvd3
+  script: build/nv.d3.min.js
+  style: build/nv.d3.min.css
+  version: 1.8.4
