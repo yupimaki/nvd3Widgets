@@ -1,8 +1,8 @@
 Package: nvd3MultipleBarChart
-Title: What the Package Does (one line, title case)
+Title: Multiple Bar Chart Using nvd3
 Version: 0.0.0.9000
-Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
-Depends: R (>= 3.2.2)
+Authors@R: person("Akhil", "Nair", email = "akhil.nair@amey.com", role = c("aut", "cre"))
+Description: Provides an htmlwidget for the multiple bar chart plot in the javascript library nvd3.
+Depends: R (>= 3.2.2), htmlwidgets
 License: What license is it under?
 LazyData: true
